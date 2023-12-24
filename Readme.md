@@ -26,10 +26,8 @@ This assignment will involve building a pairs trading strategy to test this hypo
 
 $$
 \text{Spread} = \text{Bank Nifty IV} - \text{Nifty IV}
-
 $$
 
 $$
 \text{P/L} = \text{Spread} \times (\text{Time To Expiry})^{0.7}
-
 $$
