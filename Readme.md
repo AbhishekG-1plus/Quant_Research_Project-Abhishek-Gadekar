@@ -2,9 +2,9 @@
 
 **Research Thesis**
 
-Nifty and Bank Nifty indices have significant overlap in terms of their constituents and weights. Our thesis is that their volatilities are also likely to be affected by similar market conditions and macroeconomic factors. We can thus construct a pairs trading strategy that attempts to capture any dispersion that may occur between the volatilities of the two indices
+Nifty and Bank Nifty indices have significant overlap in terms of their constituents and weights. My thesis is that their volatilities are also likely to be affected by similar market conditions and macroeconomic factors. We can thus construct a pairs trading strategy that attempts to capture any dispersion that may occur between the volatilities of the two indices
 
-This assignment will involve building a pairs trading strategy to test this hypothesis. The output we are looking for is a medium-frequency strategy that has a trading horizon ranging between 30 min to 5 days. 
+This project will involve building a pairs trading strategy to test this hypothesis. The output we are looking for is a medium-frequency strategy that has a trading horizon ranging between 30 min to 5 days. 
 
 **Dataset**
 
@@ -18,9 +18,9 @@ This assignment will involve building a pairs trading strategy to test this hypo
 
 **Deliverables**
 
-1. Build a [z-score based](https://en.wikipedia.org/wiki/Standard_score) trading system. It would use the z-scores of the spread to identify when volatility has diverged away from the historical mean and act accordingly. The calculation of the P/L here constitutes the base model.
-2. Build a better model than the z-score trading system. Be creative in the modeling techniques you implement.
-3. Compare your proposed model with the base model to optimize the absolute P/L, Sharpe Ratio, and Drawdown of your strategy.
+1. Built a [z-score based](https://en.wikipedia.org/wiki/Standard_score) trading system. It would use the z-scores of the spread to identify when volatility has diverged away from the historical mean and act accordingly. The calculation of the P/L here constitutes the base model.
+2. Built a better model than the z-score trading system. 
+3. Compared my proposed model with the base model to optimize the absolute P/L, Sharpe Ratio, and Drawdown of your strategy.
 
 **Formulae**  
 
