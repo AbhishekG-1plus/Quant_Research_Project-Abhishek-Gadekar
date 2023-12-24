@@ -18,6 +18,8 @@ This project will involve building a pairs trading strategy to test this hypothe
 
 **Deliverables**
 
+  <img width="908" alt="Screenshot 2023-12-24 at 12 23 01 PM" src="https://github.com/AbhishekG-1plus/Quant_Research_Project-Abhishek-Gadekar/assets/77354191/ab105081-4539-4661-8c35-7254ab4d08f8">
+
 1. Built a [z-score based](https://en.wikipedia.org/wiki/Standard_score) trading system. It would use the z-scores of the spread to identify when volatility has diverged away from the historical mean and act accordingly. The calculation of the P/L here constitutes the base model.
 2. Built a better model than the z-score trading system. 
 3. Compared my proposed model with the base model to optimize the absolute P/L, Sharpe Ratio, and Drawdown of your strategy.
